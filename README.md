@@ -1,0 +1,1 @@
+In this project, I practice using APIs to tweet, like and follow with a Twitter bot.
